@@ -1,0 +1,23 @@
+
+Create GitHub account
+
+Download Git and install git
+
+open gitbash
+
+enter 
+$gitinit newbranch name
+
+$cd branchname
+
+create file(eg.. ajay.txt/ajay.md/.html/.css)
+$vi ajay.txt read write save
+$cat ajay.txt read
+
+# To add all files not staged:
+$ git add .
+
+# To stage a specific file:
+$ git add index.html
+
+
